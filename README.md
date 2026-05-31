@@ -18,24 +18,25 @@ The objective was to identify an infected Windows client, extract host and user 
 
 ---
 
-##  Methodology
+##  Task Answers
 
-1. **Client Identification**  
-   - Applied the filter `ip.addr == 10.1.17.215` to isolate traffic from the suspected host.  
-   - Confirmed IP, MAC, and hostname using DHCP, NBNS, and LLMNR traffic.
 
-2. **User Account Discovery**  
-   - Inspected Kerberos packets (`AS-REQ` and `TGS-REQ`).  
-   - Extracted the user account name from `cname → name-string`.
+1. What is the IP address of the infected Windows client?  
+10.1.17.215
 
-3. **Phishing Domain Detection**  
-   - Used the filter `http || dns`.  
-   - Found DNS queries pointing to `google-authenticator.burleson`, a domain mimicking Google Authenticator.
+2. What is the MAC address of the infected Windows client?  
+00:0d:b7:26:4a:74
 
-4. **C2 Infrastructure Identification**  
-   - Applied the filter `ip.dst != 10.1.17.0/24` to focus on external traffic.  
-   - Leveraged **Statistics → Endpoints** to identify external IPs with high packet counts.  
-   - Confirmed beaconing behavior (13,546 packets) indicating C2 communication.
+3. What is the host name of the infected Windows client?  
+DESKTOP-L8GSC53
+
+4. What is the user account name from the infected Windows client?  
+BLUEMOONTUESDAY\usuario
+
+5. What is the likely domain name for the fake Google Authenticator page?  
+google-authenticator.burleson
+
+6. What are the IP addresses used for C2 serv
 
 ---
 
