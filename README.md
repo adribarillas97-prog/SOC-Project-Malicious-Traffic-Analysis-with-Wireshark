@@ -51,8 +51,11 @@ google-authenticator.burleson
 <img width="938" height="326" alt="image" src="https://github.com/user-attachments/assets/f3c8c6e9-79d5-495a-ac75-486bcca016c4" />
 
 
-8. What are the IP addresses used for C2 servers for this infection?  
-[External IP with 13,546 packets]  
+7. What are the IP addresses used for C2 servers for this infection?  
+[External IP with 13,546 packets]
+
+<img width="907" height="547" alt="image" src="https://github.com/user-attachments/assets/e3b3a02e-4180-48c4-8e31-895083d0edb9" />
+
 
 ----
 
