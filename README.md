@@ -25,7 +25,7 @@ The objective was to identify an infected Windows client, extract host and user 
 
    <img width="1007" height="593" alt="image" src="https://github.com/user-attachments/assets/48d0ff4e-f7b5-45e6-b0d1-51fca5779e4f" />
 
-10.1.17.215
+-- ANSWER: 10.1.17.215
   
 
 3. What is the MAC address of the infected Windows client?  
