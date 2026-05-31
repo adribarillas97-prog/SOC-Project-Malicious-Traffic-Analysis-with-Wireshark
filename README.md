@@ -63,12 +63,7 @@ google-authenticator.burleson
 <img width="907" height="547" alt="image" src="https://github.com/user-attachments/assets/e3b3a02e-4180-48c4-8e31-895083d0edb9" />
 
 
-----
 
-##  Evidence
-
-Screenshots of the analysis are stored in the
-The full report with detailed explanations is available in [report.pdf](report.pdf).
 
 
 ---
