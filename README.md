@@ -1,4 +1,4 @@
-# SOC-Project-Malicious-Traffic-Analysis-with-Wireshark
+# Incident Investigation: Malware Infection and C2 Traffic Analysis Using Wireshark
 
 
 
