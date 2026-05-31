@@ -14,7 +14,7 @@ The objective was to identify an infected Windows client, extract host and user 
 - **Host name of the infected Windows client:** `DESKTOP-L8GSC53`  
 - **User account name from the infected Windows client:** `BLUEMOONTUESDAY\usuario`  
 - **Likely domain name for the fake Google Authenticator page:** `google-authenticator.burleson`  
-- **IP addresses used for C2 servers for this infection:** `X.X.X.X` (external IP with 13,546 packets, plus any other repeated external IPs)
+- **IP addresses used for C2 servers for this infection:** `10.1.17.215` (external IP with 13,546 packets, plus any other repeated external IPs)
 
 ---
 
