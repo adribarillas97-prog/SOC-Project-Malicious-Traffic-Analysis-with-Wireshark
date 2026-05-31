@@ -42,8 +42,9 @@ google-authenticator.burleson
 
 ##  Evidence
 
-Screenshots of the analysis are stored in the `screenshots/` directory.  
-The full report with detailed explanations is available in [`report.pdf`](report.pdf).
+Screenshots of the analysis are stored in the [screenshots/](screenshots/) directory.  
+The full report with detailed explanations is available in [report.pdf](report.pdf).
+
 
 ---
 
