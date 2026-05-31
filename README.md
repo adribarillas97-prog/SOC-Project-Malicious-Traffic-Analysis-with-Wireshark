@@ -58,7 +58,7 @@ google-authenticator.burleson
 ---
 
 7. What are the IP addresses used for C2 servers for this infection?  
-[External IP with 13,546 packets]
+10.1.17.215 IP with 13,546 packets
 
 <img width="907" height="547" alt="image" src="https://github.com/user-attachments/assets/e3b3a02e-4180-48c4-8e31-895083d0edb9" />
 
