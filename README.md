@@ -42,10 +42,16 @@ DESKTOP-L8GSC53
 5. What is the user account name from the infected Windows client?  
 BLUEMOONTUESDAY\usuario
 
+<img width="345" height="188" alt="image" src="https://github.com/user-attachments/assets/37f731d4-e3f5-4f90-b001-bd44cce5b60c" />
+
+
 6. What is the likely domain name for the fake Google Authenticator page?  
 google-authenticator.burleson
 
-7. What are the IP addresses used for C2 servers for this infection?  
+<img width="938" height="326" alt="image" src="https://github.com/user-attachments/assets/f3c8c6e9-79d5-495a-ac75-486bcca016c4" />
+
+
+8. What are the IP addresses used for C2 servers for this infection?  
 [External IP with 13,546 packets]  
 
 ----
