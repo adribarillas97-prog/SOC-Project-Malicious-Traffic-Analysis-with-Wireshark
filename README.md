@@ -21,22 +21,26 @@ The objective was to identify an infected Windows client, extract host and user 
 ##  Task Answers
 
 
-1. What is the IP address of the infected Windows client?  
-10.1.17.215
+1. What is the IP address of the infected Windows client?
 
-2. What is the MAC address of the infected Windows client?  
+   <img width="1007" height="593" alt="image" src="https://github.com/user-attachments/assets/48d0ff4e-f7b5-45e6-b0d1-51fca5779e4f" />
+
+10.1.17.215
+  
+
+3. What is the MAC address of the infected Windows client?  
 00:0d:b7:26:4a:74
 
-3. What is the host name of the infected Windows client?  
+4. What is the host name of the infected Windows client?  
 DESKTOP-L8GSC53
 
-4. What is the user account name from the infected Windows client?  
+5. What is the user account name from the infected Windows client?  
 BLUEMOONTUESDAY\usuario
 
-5. What is the likely domain name for the fake Google Authenticator page?  
+6. What is the likely domain name for the fake Google Authenticator page?  
 google-authenticator.burleson
 
-6. What are the IP addresses used for C2 serv
+7. What are the IP addresses used for C2 serv
 
 ----
 
